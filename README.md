@@ -7,7 +7,7 @@
 1. 克隆仓库
 ```bash
 git clone https://github.com/siruicheng1900/cheng-sirui-repo.git
-cd cheng-sirui-repo
+cd cheng-sirui-repo```
 
 2.保持联系
 电话:(+86)17344204040
