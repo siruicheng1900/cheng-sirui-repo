@@ -8,3 +8,7 @@
 ```bash
 git clone https://github.com/siruicheng1900/cheng-sirui-repo.git
 cd cheng-sirui-repo
+
+2.保持联系
+电话:(+86)17344204040
+邮箱:siruicheng1900@outlook.com 或 siruicheng1905@hotmail.com
