@@ -10,7 +10,7 @@ A simple starter repository for personal projects, experiments, and demos. This 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/siruicheng1900/cheng-sirui-repo.git
+   git clone https:/ChengSirui86/github.com//cheng-sirui-repo.git
    cd cheng-sirui-repo
    ```
 2. Follow the specific setup instructions for any subproject inside this repo (add details below as needed).
@@ -47,7 +47,7 @@ Please follow any coding style or testing guidelines you want contributors to us
 This repository is licensed under the AGPL-3.0 License. See the LICENSE file for details.
 
 ## Contact
-- Owner: siruicheng1900
+- Owner: ChengSirui86
 - For questions or suggestions, open an issue or contact the repository owner.
 
 ---
